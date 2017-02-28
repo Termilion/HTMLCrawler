@@ -15,6 +15,7 @@
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" level="application" />
     <orderEntry type="library" name="Maven: commons-validator:commons-validator:1.5.1" level="project" />
     <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.9.2" level="project" />
     <orderEntry type="library" name="Maven: commons-digester:commons-digester:1.8.1" level="project" />
@@ -23,7 +24,6 @@
     <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver:3.3.0" level="project" />
     <orderEntry type="library" name="Maven: org.mongodb:bson:3.3.0" level="project" />
     <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-core:3.3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.10.1" level="project" />
-    <orderEntry type="library" name="Maven: com.google.guava:guava:21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.json:json:20160212" level="project" />
   </component>
 </module>
