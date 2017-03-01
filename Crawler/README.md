@@ -29,6 +29,11 @@
 }]
 ```
 
+## Dependencies
+* MongoDB Java Driver version 3.3.0
+* Apache Commons Validator version 1.5.1
+* JSON
+
 ## Properties File
 User Input is handled with a Properties File.
 ```
