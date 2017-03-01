@@ -77,7 +77,7 @@ timeout=4000				# Connection Timeout
 threads=50					# Number of Threads
 ```
 
-## Running the Tool
+## Usage
 
 * For the basic use you only need to run the run() Method.
 * The first Parameter is the (local) Path to the Properties File
