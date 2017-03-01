@@ -34,6 +34,29 @@
 * Apache Commons Validator version 1.5.1
 * JSON
 
+**For Maven:**
+```
+<dependencies>
+  <!-- https://mvnrepository.com/artifact/commons-validator/commons-validator -->
+  <dependency>
+    <groupId>commons-validator</groupId>
+    <artifactId>commons-validator</artifactId>
+    <version>1.5.1</version>
+  </dependency>
+  <dependency>
+    <groupId>org.mongodb</groupId>
+    <artifactId>mongodb-driver</artifactId>
+    <version>3.3.0</version>
+  </dependency>
+  <!-- https://mvnrepository.com/artifact/org.json/json -->
+  <dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20160212</version>
+  </dependency>
+</dependencies>
+```
+
 ## Properties File
 User Input is handled with a Properties File.
 ```
