@@ -72,8 +72,8 @@ collection=					# Name of the Collection containing the unfiltered data
 urlField=downloadURL		# Field that contains the URL
 startIndex=0				# Skip to this Index
 endIndex=					# Last Index to be Crawled
-maxTime=4320				# Maximum Execution Timeout
-timeout=4000				# Connection Timeout
+maxTime=4320				# Maximum Execution Timeout (in minutes)
+timeout=4000				# Connection Timeout (in milliseconds)
 threads=50					# Number of Threads
 ```
 
