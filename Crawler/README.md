@@ -11,7 +11,7 @@
 	"filtered":1747075,				# Resources after running the Filter
 	"responded":44649,				# Resources that responded
 	"fileServers":1089,				# Resources that contain other Resources
-	"newResources":70940			# Total **NEW** Resources
+	"newResources":70940			# Total new Resources (Any Type)
 },{
 	"gz_newResources":0,"gz_origins":0,			# X_origins = Number of Resources that contain Resources of Type X
 	"zip_newResources":39387,"zip_origins":52,	# X_newResources = Number of new Resources of Type X
