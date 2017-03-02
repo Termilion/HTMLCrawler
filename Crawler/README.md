@@ -7,14 +7,14 @@
 **Example Output:**
 ```
 [{
-	"total":3613327,
-	"filtered":1747075,
-	"responded":44649,
-	"fileServers":1089,
-	"newResources":70940
+	"total":3613327,			# Total Resources
+	"filtered":1747075,			# Resources after running the Filter
+	"responded":44649,			# Resources that responded
+	"fileServers":1089,			# Resources that contain other Resources
+	"newResources":70940			# Total **NEW** Resources
 },{
-	"gz_newResources":0,"gz_origins":0,
-	"zip_newResources":39387,"zip_origins":52,
+	"gz_newResources":0,"gz_origins":0,		# X_origins = Number of Resources that contain Resources of Type X		
+	"zip_newResources":39387,"zip_origins":52,	# X_newResources = Number of new Resources of Type X
 	"tar_newResources":0,"tar_origins":0,
 	"rar_newResources":1,"rar_origins":1,
 	"tgz_newResources":0,"tgz_origins":0
